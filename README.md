@@ -2,18 +2,6 @@
 
 > End-to-end machine learning pipeline for analyzing Indian road accident patterns (2022–2025) and predicting 2026 accident severity using 7 models including GPU-accelerated XGBoost and LightGBM.
 
----
-
-## 👥 Team
-
-| Name | Roll No | Institution |
-|---|---|---|
-| Divyansh Gupta | 23BCI0065 | VIT Vellore |
-| Adidev Anand | 23BCI0132 | VIT Vellore |
-| Aditya Arvind | 23BDS0200 | VIT Vellore |
-
----
-
 ## 📊 Model Results (from your run)
 
 | Model | Accuracy | F1-Macro | CV F1 | Device |
@@ -204,5 +192,3 @@ print('Predicted severity:', le.inverse_transform(pred)[0])
 - **Dataset limitation** — the `major` and `minor` classes are synthetically generated with nearly identical feature values. This is a known property of this dataset and explains the moderate accuracy scores. On real-world accident data with distinct per-class features, accuracy would be significantly higher.
 
 ---
-
-*Dataset: Indian Roads Accident Dataset 2022–2025 | VIT Vellore, Academic Year 2025–26*
