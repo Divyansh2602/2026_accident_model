@@ -1,0 +1,1001 @@
+date,city,state,road_type,weather,cause,predicted_severity
+2026-01-01 00:00:00,Bangalore,Karnataka,urban,fog,weather,minor
+2026-01-01 08:00:00,Delhi,Delhi,urban,clear,drunk driving,minor
+2026-01-01 16:00:00,Kolkata,West Bengal,highway,clear,drunk driving,minor
+2026-01-02 00:00:00,Delhi,Delhi,highway,rain,weather,minor
+2026-01-02 08:00:00,Pune,Maharashtra,highway,fog,weather,minor
+2026-01-02 16:00:00,Delhi,Delhi,highway,clear,distraction,minor
+2026-01-03 00:00:00,Delhi,Delhi,urban,clear,weather,minor
+2026-01-03 08:00:00,Mumbai,Maharashtra,rural,rain,overspeeding,major
+2026-01-03 16:00:00,Kolkata,West Bengal,rural,rain,overspeeding,fatal
+2026-01-04 00:00:00,Kolkata,West Bengal,urban,clear,overspeeding,minor
+2026-01-04 08:00:00,Pune,Maharashtra,highway,clear,overspeeding,minor
+2026-01-04 16:00:00,Hyderabad,Telangana,rural,rain,overspeeding,major
+2026-01-05 00:00:00,Bangalore,Karnataka,urban,clear,weather,fatal
+2026-01-05 08:00:00,Chennai,Tamil Nadu,urban,rain,distraction,fatal
+2026-01-05 16:00:00,Chandigarh,Punjab,rural,fog,drunk driving,minor
+2026-01-06 00:00:00,Mumbai,Maharashtra,rural,rain,distraction,major
+2026-01-06 08:00:00,Kolkata,West Bengal,urban,rain,distraction,fatal
+2026-01-06 16:00:00,Pune,Maharashtra,urban,fog,poor road,fatal
+2026-01-07 00:00:00,Pune,Maharashtra,urban,fog,overspeeding,minor
+2026-01-07 08:00:00,Chennai,Tamil Nadu,rural,fog,poor road,minor
+2026-01-07 16:00:00,Mumbai,Maharashtra,rural,rain,poor road,major
+2026-01-08 00:00:00,Hyderabad,Telangana,highway,rain,drunk driving,minor
+2026-01-08 08:00:00,Delhi,Delhi,urban,rain,drunk driving,minor
+2026-01-08 16:00:00,Mumbai,Maharashtra,rural,fog,weather,major
+2026-01-09 00:00:00,Bangalore,Karnataka,urban,fog,overspeeding,major
+2026-01-09 08:00:00,Mumbai,Maharashtra,highway,fog,poor road,major
+2026-01-09 16:00:00,Hyderabad,Telangana,urban,rain,overspeeding,minor
+2026-01-10 00:00:00,Chennai,Tamil Nadu,urban,rain,distraction,minor
+2026-01-10 08:00:00,Chandigarh,Punjab,rural,rain,overspeeding,fatal
+2026-01-10 16:00:00,Pune,Maharashtra,rural,clear,drunk driving,major
+2026-01-11 00:00:00,Delhi,Delhi,highway,clear,drunk driving,minor
+2026-01-11 08:00:00,Chennai,Tamil Nadu,rural,rain,weather,minor
+2026-01-11 16:00:00,Mumbai,Maharashtra,highway,clear,overspeeding,major
+2026-01-12 00:00:00,Chandigarh,Punjab,rural,rain,overspeeding,minor
+2026-01-12 08:00:00,Delhi,Delhi,highway,fog,poor road,minor
+2026-01-12 16:00:00,Pune,Maharashtra,urban,rain,weather,minor
+2026-01-13 00:00:00,Delhi,Delhi,rural,rain,poor road,minor
+2026-01-13 08:00:00,Chandigarh,Punjab,rural,fog,drunk driving,fatal
+2026-01-13 16:00:00,Delhi,Delhi,urban,rain,poor road,minor
+2026-01-14 00:00:00,Chandigarh,Punjab,urban,rain,distraction,major
+2026-01-14 08:00:00,Hyderabad,Telangana,rural,rain,poor road,minor
+2026-01-14 16:00:00,Delhi,Delhi,rural,fog,weather,fatal
+2026-01-15 00:00:00,Hyderabad,Telangana,highway,fog,poor road,minor
+2026-01-15 08:00:00,Pune,Maharashtra,highway,clear,overspeeding,minor
+2026-01-15 16:00:00,Pune,Maharashtra,highway,clear,overspeeding,minor
+2026-01-16 00:00:00,Chennai,Tamil Nadu,rural,rain,poor road,minor
+2026-01-16 08:00:00,Kolkata,West Bengal,urban,fog,overspeeding,minor
+2026-01-16 16:00:00,Chandigarh,Punjab,urban,clear,distraction,fatal
+2026-01-17 00:00:00,Delhi,Delhi,rural,rain,poor road,minor
+2026-01-17 08:00:00,Chennai,Tamil Nadu,urban,clear,drunk driving,major
+2026-01-17 16:00:00,Mumbai,Maharashtra,highway,fog,distraction,major
+2026-01-18 00:00:00,Chandigarh,Punjab,rural,rain,weather,minor
+2026-01-18 08:00:00,Delhi,Delhi,highway,fog,poor road,minor
+2026-01-18 16:00:00,Chennai,Tamil Nadu,urban,fog,poor road,minor
+2026-01-19 00:00:00,Chennai,Tamil Nadu,urban,fog,poor road,minor
+2026-01-19 08:00:00,Bangalore,Karnataka,highway,rain,drunk driving,fatal
+2026-01-19 16:00:00,Bangalore,Karnataka,urban,rain,drunk driving,major
+2026-01-20 00:00:00,Chennai,Tamil Nadu,highway,clear,overspeeding,major
+2026-01-20 08:00:00,Mumbai,Maharashtra,rural,clear,poor road,major
+2026-01-20 16:00:00,Chandigarh,Punjab,urban,fog,weather,minor
+2026-01-21 00:00:00,Mumbai,Maharashtra,rural,clear,poor road,fatal
+2026-01-21 08:00:00,Chennai,Tamil Nadu,urban,rain,drunk driving,minor
+2026-01-21 16:00:00,Bangalore,Karnataka,rural,fog,overspeeding,minor
+2026-01-22 00:00:00,Pune,Maharashtra,highway,fog,overspeeding,minor
+2026-01-22 08:00:00,Hyderabad,Telangana,urban,fog,distraction,fatal
+2026-01-22 16:00:00,Delhi,Delhi,urban,rain,poor road,fatal
+2026-01-23 00:00:00,Mumbai,Maharashtra,rural,clear,overspeeding,major
+2026-01-23 08:00:00,Mumbai,Maharashtra,urban,fog,poor road,minor
+2026-01-23 16:00:00,Kolkata,West Bengal,rural,rain,poor road,minor
+2026-01-24 00:00:00,Hyderabad,Telangana,highway,fog,distraction,major
+2026-01-24 08:00:00,Mumbai,Maharashtra,rural,clear,weather,major
+2026-01-24 16:00:00,Kolkata,West Bengal,highway,rain,distraction,major
+2026-01-25 00:00:00,Bangalore,Karnataka,rural,rain,poor road,major
+2026-01-25 08:00:00,Kolkata,West Bengal,urban,fog,overspeeding,minor
+2026-01-25 16:00:00,Chandigarh,Punjab,urban,clear,overspeeding,minor
+2026-01-26 00:00:00,Pune,Maharashtra,urban,rain,overspeeding,minor
+2026-01-26 08:00:00,Kolkata,West Bengal,rural,fog,distraction,major
+2026-01-26 16:00:00,Chandigarh,Punjab,urban,rain,poor road,major
+2026-01-27 00:00:00,Mumbai,Maharashtra,highway,fog,overspeeding,major
+2026-01-27 08:00:00,Pune,Maharashtra,highway,clear,overspeeding,minor
+2026-01-27 16:00:00,Bangalore,Karnataka,highway,rain,overspeeding,minor
+2026-01-28 00:00:00,Bangalore,Karnataka,rural,rain,overspeeding,minor
+2026-01-28 08:00:00,Chennai,Tamil Nadu,highway,fog,overspeeding,minor
+2026-01-28 16:00:00,Chandigarh,Punjab,highway,rain,drunk driving,minor
+2026-01-29 00:00:00,Pune,Maharashtra,urban,rain,overspeeding,fatal
+2026-01-29 08:00:00,Chandigarh,Punjab,highway,rain,overspeeding,minor
+2026-01-29 16:00:00,Bangalore,Karnataka,urban,fog,poor road,minor
+2026-01-30 00:00:00,Kolkata,West Bengal,rural,rain,weather,fatal
+2026-01-30 08:00:00,Mumbai,Maharashtra,rural,fog,weather,major
+2026-01-30 16:00:00,Pune,Maharashtra,highway,fog,distraction,minor
+2026-01-31 00:00:00,Delhi,Delhi,rural,fog,poor road,minor
+2026-01-31 08:00:00,Hyderabad,Telangana,highway,fog,weather,fatal
+2026-01-31 16:00:00,Kolkata,West Bengal,urban,fog,distraction,major
+2026-02-01 00:00:00,Mumbai,Maharashtra,highway,fog,distraction,fatal
+2026-02-01 08:00:00,Chandigarh,Punjab,urban,fog,drunk driving,major
+2026-02-01 16:00:00,Chandigarh,Punjab,rural,rain,drunk driving,minor
+2026-02-02 00:00:00,Mumbai,Maharashtra,urban,rain,poor road,major
+2026-02-02 08:00:00,Delhi,Delhi,rural,clear,poor road,minor
+2026-02-02 16:00:00,Chennai,Tamil Nadu,rural,clear,weather,minor
+2026-02-03 00:00:00,Chandigarh,Punjab,urban,rain,poor road,minor
+2026-02-03 08:00:00,Delhi,Delhi,rural,clear,weather,major
+2026-02-03 16:00:00,Delhi,Delhi,rural,clear,distraction,minor
+2026-02-04 00:00:00,Hyderabad,Telangana,highway,rain,drunk driving,minor
+2026-02-04 08:00:00,Chandigarh,Punjab,highway,fog,drunk driving,major
+2026-02-04 16:00:00,Bangalore,Karnataka,highway,fog,drunk driving,minor
+2026-02-05 00:00:00,Hyderabad,Telangana,rural,clear,distraction,major
+2026-02-05 08:00:00,Chandigarh,Punjab,highway,fog,distraction,fatal
+2026-02-05 16:00:00,Delhi,Delhi,urban,fog,distraction,major
+2026-02-06 00:00:00,Mumbai,Maharashtra,highway,rain,overspeeding,fatal
+2026-02-06 08:00:00,Bangalore,Karnataka,highway,clear,overspeeding,minor
+2026-02-06 16:00:00,Kolkata,West Bengal,highway,clear,distraction,major
+2026-02-07 00:00:00,Kolkata,West Bengal,urban,clear,poor road,minor
+2026-02-07 08:00:00,Bangalore,Karnataka,urban,clear,drunk driving,major
+2026-02-07 16:00:00,Hyderabad,Telangana,urban,clear,poor road,minor
+2026-02-08 00:00:00,Chennai,Tamil Nadu,highway,rain,drunk driving,minor
+2026-02-08 08:00:00,Kolkata,West Bengal,rural,clear,distraction,major
+2026-02-08 16:00:00,Chennai,Tamil Nadu,highway,clear,distraction,minor
+2026-02-09 00:00:00,Bangalore,Karnataka,rural,clear,poor road,minor
+2026-02-09 08:00:00,Chennai,Tamil Nadu,rural,rain,poor road,minor
+2026-02-09 16:00:00,Hyderabad,Telangana,highway,clear,distraction,major
+2026-02-10 00:00:00,Bangalore,Karnataka,highway,fog,poor road,minor
+2026-02-10 08:00:00,Delhi,Delhi,urban,clear,poor road,minor
+2026-02-10 16:00:00,Bangalore,Karnataka,highway,fog,weather,major
+2026-02-11 00:00:00,Pune,Maharashtra,urban,rain,distraction,fatal
+2026-02-11 08:00:00,Pune,Maharashtra,rural,rain,drunk driving,minor
+2026-02-11 16:00:00,Chennai,Tamil Nadu,rural,rain,overspeeding,minor
+2026-02-12 00:00:00,Chandigarh,Punjab,highway,clear,overspeeding,minor
+2026-02-12 08:00:00,Chandigarh,Punjab,rural,fog,poor road,minor
+2026-02-12 16:00:00,Chennai,Tamil Nadu,highway,rain,poor road,fatal
+2026-02-13 00:00:00,Mumbai,Maharashtra,urban,fog,weather,fatal
+2026-02-13 08:00:00,Chandigarh,Punjab,highway,fog,overspeeding,major
+2026-02-13 16:00:00,Chandigarh,Punjab,urban,rain,weather,fatal
+2026-02-14 00:00:00,Chennai,Tamil Nadu,highway,rain,drunk driving,minor
+2026-02-14 08:00:00,Chandigarh,Punjab,rural,fog,drunk driving,fatal
+2026-02-14 16:00:00,Chandigarh,Punjab,highway,clear,distraction,major
+2026-02-15 00:00:00,Hyderabad,Telangana,urban,rain,overspeeding,minor
+2026-02-15 08:00:00,Bangalore,Karnataka,urban,clear,weather,minor
+2026-02-15 16:00:00,Hyderabad,Telangana,urban,rain,weather,major
+2026-02-16 00:00:00,Kolkata,West Bengal,rural,clear,poor road,minor
+2026-02-16 08:00:00,Bangalore,Karnataka,rural,rain,overspeeding,fatal
+2026-02-16 16:00:00,Bangalore,Karnataka,highway,clear,distraction,minor
+2026-02-17 00:00:00,Kolkata,West Bengal,rural,clear,distraction,major
+2026-02-17 08:00:00,Delhi,Delhi,highway,fog,poor road,minor
+2026-02-17 16:00:00,Pune,Maharashtra,rural,rain,drunk driving,major
+2026-02-18 00:00:00,Pune,Maharashtra,highway,clear,distraction,minor
+2026-02-18 08:00:00,Bangalore,Karnataka,highway,clear,drunk driving,minor
+2026-02-18 16:00:00,Bangalore,Karnataka,urban,clear,poor road,fatal
+2026-02-19 00:00:00,Delhi,Delhi,rural,fog,drunk driving,minor
+2026-02-19 08:00:00,Pune,Maharashtra,urban,rain,drunk driving,minor
+2026-02-19 16:00:00,Kolkata,West Bengal,rural,clear,overspeeding,major
+2026-02-20 00:00:00,Hyderabad,Telangana,urban,clear,drunk driving,fatal
+2026-02-20 08:00:00,Chennai,Tamil Nadu,rural,fog,weather,fatal
+2026-02-20 16:00:00,Chandigarh,Punjab,highway,clear,poor road,major
+2026-02-21 00:00:00,Pune,Maharashtra,urban,rain,overspeeding,minor
+2026-02-21 08:00:00,Hyderabad,Telangana,highway,clear,distraction,major
+2026-02-21 16:00:00,Bangalore,Karnataka,rural,rain,drunk driving,major
+2026-02-22 00:00:00,Mumbai,Maharashtra,highway,clear,overspeeding,major
+2026-02-22 08:00:00,Bangalore,Karnataka,urban,clear,drunk driving,minor
+2026-02-22 16:00:00,Bangalore,Karnataka,urban,fog,overspeeding,minor
+2026-02-23 00:00:00,Chennai,Tamil Nadu,rural,rain,drunk driving,minor
+2026-02-23 08:00:00,Pune,Maharashtra,rural,rain,distraction,major
+2026-02-23 16:00:00,Chandigarh,Punjab,highway,rain,distraction,minor
+2026-02-24 00:00:00,Bangalore,Karnataka,rural,rain,weather,major
+2026-02-24 08:00:00,Hyderabad,Telangana,urban,fog,overspeeding,minor
+2026-02-24 16:00:00,Bangalore,Karnataka,rural,rain,drunk driving,fatal
+2026-02-25 00:00:00,Pune,Maharashtra,rural,fog,weather,fatal
+2026-02-25 08:00:00,Mumbai,Maharashtra,urban,clear,drunk driving,major
+2026-02-25 16:00:00,Chennai,Tamil Nadu,highway,fog,drunk driving,minor
+2026-02-26 00:00:00,Hyderabad,Telangana,highway,clear,overspeeding,major
+2026-02-26 08:00:00,Chennai,Tamil Nadu,urban,fog,poor road,minor
+2026-02-26 16:00:00,Chennai,Tamil Nadu,rural,fog,drunk driving,major
+2026-02-27 00:00:00,Chennai,Tamil Nadu,highway,clear,overspeeding,fatal
+2026-02-27 08:00:00,Chandigarh,Punjab,highway,rain,drunk driving,minor
+2026-02-27 16:00:00,Chennai,Tamil Nadu,highway,clear,poor road,major
+2026-02-28 00:00:00,Chennai,Tamil Nadu,rural,fog,overspeeding,minor
+2026-02-28 08:00:00,Chennai,Tamil Nadu,urban,clear,overspeeding,minor
+2026-02-28 16:00:00,Mumbai,Maharashtra,rural,rain,weather,fatal
+2026-03-01 00:00:00,Chandigarh,Punjab,highway,fog,distraction,major
+2026-03-01 08:00:00,Pune,Maharashtra,highway,clear,overspeeding,minor
+2026-03-01 16:00:00,Hyderabad,Telangana,rural,fog,weather,major
+2026-03-02 00:00:00,Kolkata,West Bengal,urban,rain,poor road,major
+2026-03-02 08:00:00,Mumbai,Maharashtra,urban,clear,weather,major
+2026-03-02 16:00:00,Kolkata,West Bengal,highway,clear,distraction,major
+2026-03-03 00:00:00,Chennai,Tamil Nadu,highway,rain,drunk driving,minor
+2026-03-03 08:00:00,Pune,Maharashtra,highway,rain,drunk driving,minor
+2026-03-03 16:00:00,Bangalore,Karnataka,highway,fog,drunk driving,major
+2026-03-04 00:00:00,Delhi,Delhi,rural,rain,distraction,minor
+2026-03-04 08:00:00,Chennai,Tamil Nadu,rural,fog,poor road,minor
+2026-03-04 16:00:00,Bangalore,Karnataka,urban,fog,distraction,fatal
+2026-03-05 00:00:00,Hyderabad,Telangana,rural,clear,weather,major
+2026-03-05 08:00:00,Bangalore,Karnataka,highway,clear,drunk driving,minor
+2026-03-05 16:00:00,Bangalore,Karnataka,rural,clear,drunk driving,major
+2026-03-06 00:00:00,Delhi,Delhi,highway,rain,overspeeding,minor
+2026-03-06 08:00:00,Delhi,Delhi,highway,rain,overspeeding,fatal
+2026-03-06 16:00:00,Kolkata,West Bengal,rural,fog,overspeeding,major
+2026-03-07 00:00:00,Delhi,Delhi,rural,fog,overspeeding,major
+2026-03-07 08:00:00,Delhi,Delhi,rural,fog,weather,major
+2026-03-07 16:00:00,Chennai,Tamil Nadu,highway,fog,weather,minor
+2026-03-08 00:00:00,Hyderabad,Telangana,urban,rain,overspeeding,major
+2026-03-08 08:00:00,Kolkata,West Bengal,urban,fog,drunk driving,minor
+2026-03-08 16:00:00,Delhi,Delhi,rural,clear,overspeeding,minor
+2026-03-09 00:00:00,Bangalore,Karnataka,rural,clear,overspeeding,minor
+2026-03-09 08:00:00,Bangalore,Karnataka,highway,fog,weather,minor
+2026-03-09 16:00:00,Bangalore,Karnataka,urban,fog,overspeeding,major
+2026-03-10 00:00:00,Kolkata,West Bengal,urban,rain,drunk driving,minor
+2026-03-10 08:00:00,Pune,Maharashtra,rural,rain,poor road,minor
+2026-03-10 16:00:00,Kolkata,West Bengal,highway,rain,overspeeding,minor
+2026-03-11 00:00:00,Chennai,Tamil Nadu,rural,rain,weather,minor
+2026-03-11 08:00:00,Bangalore,Karnataka,rural,fog,distraction,minor
+2026-03-11 16:00:00,Chandigarh,Punjab,rural,fog,weather,minor
+2026-03-12 00:00:00,Hyderabad,Telangana,highway,rain,overspeeding,major
+2026-03-12 08:00:00,Bangalore,Karnataka,rural,fog,weather,minor
+2026-03-12 16:00:00,Delhi,Delhi,highway,clear,distraction,minor
+2026-03-13 00:00:00,Chandigarh,Punjab,rural,rain,overspeeding,major
+2026-03-13 08:00:00,Kolkata,West Bengal,highway,clear,poor road,minor
+2026-03-13 16:00:00,Hyderabad,Telangana,rural,clear,overspeeding,major
+2026-03-14 00:00:00,Chandigarh,Punjab,urban,rain,drunk driving,major
+2026-03-14 08:00:00,Hyderabad,Telangana,highway,rain,weather,major
+2026-03-14 16:00:00,Pune,Maharashtra,highway,fog,drunk driving,major
+2026-03-15 00:00:00,Delhi,Delhi,highway,clear,drunk driving,minor
+2026-03-15 08:00:00,Hyderabad,Telangana,rural,rain,drunk driving,major
+2026-03-15 16:00:00,Hyderabad,Telangana,rural,fog,overspeeding,major
+2026-03-16 00:00:00,Mumbai,Maharashtra,urban,fog,poor road,major
+2026-03-16 08:00:00,Bangalore,Karnataka,rural,rain,distraction,fatal
+2026-03-16 16:00:00,Hyderabad,Telangana,highway,fog,overspeeding,major
+2026-03-17 00:00:00,Pune,Maharashtra,rural,rain,distraction,major
+2026-03-17 08:00:00,Chennai,Tamil Nadu,highway,rain,drunk driving,fatal
+2026-03-17 16:00:00,Bangalore,Karnataka,rural,fog,overspeeding,minor
+2026-03-18 00:00:00,Mumbai,Maharashtra,rural,fog,distraction,major
+2026-03-18 08:00:00,Chennai,Tamil Nadu,urban,rain,distraction,major
+2026-03-18 16:00:00,Chandigarh,Punjab,rural,rain,overspeeding,minor
+2026-03-19 00:00:00,Hyderabad,Telangana,highway,fog,overspeeding,major
+2026-03-19 08:00:00,Pune,Maharashtra,rural,clear,distraction,major
+2026-03-19 16:00:00,Hyderabad,Telangana,urban,fog,overspeeding,fatal
+2026-03-20 00:00:00,Chennai,Tamil Nadu,urban,fog,weather,major
+2026-03-20 08:00:00,Chandigarh,Punjab,rural,fog,poor road,minor
+2026-03-20 16:00:00,Bangalore,Karnataka,urban,fog,weather,minor
+2026-03-21 00:00:00,Bangalore,Karnataka,urban,clear,poor road,minor
+2026-03-21 08:00:00,Bangalore,Karnataka,highway,clear,poor road,minor
+2026-03-21 16:00:00,Bangalore,Karnataka,rural,clear,poor road,minor
+2026-03-22 00:00:00,Pune,Maharashtra,rural,fog,overspeeding,fatal
+2026-03-22 08:00:00,Chandigarh,Punjab,urban,fog,poor road,minor
+2026-03-22 16:00:00,Mumbai,Maharashtra,urban,fog,drunk driving,major
+2026-03-23 00:00:00,Mumbai,Maharashtra,urban,fog,overspeeding,major
+2026-03-23 08:00:00,Chennai,Tamil Nadu,urban,rain,drunk driving,major
+2026-03-23 16:00:00,Pune,Maharashtra,urban,clear,distraction,major
+2026-03-24 00:00:00,Kolkata,West Bengal,urban,clear,poor road,minor
+2026-03-24 08:00:00,Chandigarh,Punjab,highway,fog,overspeeding,minor
+2026-03-24 16:00:00,Kolkata,West Bengal,highway,fog,overspeeding,major
+2026-03-25 00:00:00,Mumbai,Maharashtra,urban,fog,overspeeding,major
+2026-03-25 08:00:00,Hyderabad,Telangana,highway,clear,poor road,major
+2026-03-25 16:00:00,Pune,Maharashtra,highway,rain,distraction,fatal
+2026-03-26 00:00:00,Delhi,Delhi,highway,fog,poor road,minor
+2026-03-26 08:00:00,Kolkata,West Bengal,rural,rain,poor road,minor
+2026-03-26 16:00:00,Bangalore,Karnataka,rural,clear,weather,major
+2026-03-27 00:00:00,Bangalore,Karnataka,highway,fog,overspeeding,minor
+2026-03-27 08:00:00,Chennai,Tamil Nadu,rural,rain,poor road,minor
+2026-03-27 16:00:00,Chandigarh,Punjab,rural,rain,drunk driving,major
+2026-03-28 00:00:00,Kolkata,West Bengal,rural,rain,weather,minor
+2026-03-28 08:00:00,Mumbai,Maharashtra,urban,rain,distraction,major
+2026-03-28 16:00:00,Hyderabad,Telangana,highway,rain,weather,major
+2026-03-29 00:00:00,Kolkata,West Bengal,urban,rain,drunk driving,minor
+2026-03-29 08:00:00,Chennai,Tamil Nadu,urban,fog,distraction,minor
+2026-03-29 16:00:00,Kolkata,West Bengal,highway,rain,weather,minor
+2026-03-30 00:00:00,Delhi,Delhi,highway,rain,overspeeding,major
+2026-03-30 08:00:00,Hyderabad,Telangana,rural,rain,overspeeding,minor
+2026-03-30 16:00:00,Bangalore,Karnataka,rural,fog,weather,major
+2026-03-31 00:00:00,Chandigarh,Punjab,highway,rain,weather,minor
+2026-03-31 08:00:00,Bangalore,Karnataka,highway,rain,weather,major
+2026-03-31 16:00:00,Delhi,Delhi,highway,clear,weather,minor
+2026-04-01 00:00:00,Delhi,Delhi,urban,rain,weather,minor
+2026-04-01 08:00:00,Delhi,Delhi,urban,clear,weather,minor
+2026-04-01 16:00:00,Chennai,Tamil Nadu,rural,rain,distraction,major
+2026-04-02 00:00:00,Chennai,Tamil Nadu,urban,fog,overspeeding,minor
+2026-04-02 08:00:00,Mumbai,Maharashtra,rural,fog,distraction,major
+2026-04-02 16:00:00,Delhi,Delhi,rural,clear,overspeeding,major
+2026-04-03 00:00:00,Mumbai,Maharashtra,rural,rain,distraction,major
+2026-04-03 08:00:00,Chandigarh,Punjab,rural,fog,weather,minor
+2026-04-03 16:00:00,Mumbai,Maharashtra,rural,clear,distraction,major
+2026-04-04 00:00:00,Chennai,Tamil Nadu,highway,rain,distraction,fatal
+2026-04-04 08:00:00,Kolkata,West Bengal,rural,fog,poor road,minor
+2026-04-04 16:00:00,Chennai,Tamil Nadu,urban,fog,weather,fatal
+2026-04-05 00:00:00,Pune,Maharashtra,urban,rain,overspeeding,minor
+2026-04-05 08:00:00,Mumbai,Maharashtra,highway,fog,overspeeding,major
+2026-04-05 16:00:00,Hyderabad,Telangana,highway,fog,poor road,fatal
+2026-04-06 00:00:00,Chandigarh,Punjab,highway,fog,weather,minor
+2026-04-06 08:00:00,Delhi,Delhi,urban,rain,drunk driving,minor
+2026-04-06 16:00:00,Bangalore,Karnataka,rural,clear,distraction,major
+2026-04-07 00:00:00,Hyderabad,Telangana,highway,clear,weather,major
+2026-04-07 08:00:00,Kolkata,West Bengal,rural,clear,distraction,fatal
+2026-04-07 16:00:00,Chandigarh,Punjab,urban,rain,overspeeding,fatal
+2026-04-08 00:00:00,Kolkata,West Bengal,rural,rain,poor road,fatal
+2026-04-08 08:00:00,Bangalore,Karnataka,highway,clear,drunk driving,major
+2026-04-08 16:00:00,Pune,Maharashtra,rural,clear,distraction,major
+2026-04-09 00:00:00,Pune,Maharashtra,rural,rain,distraction,major
+2026-04-09 08:00:00,Chandigarh,Punjab,urban,rain,poor road,minor
+2026-04-09 16:00:00,Kolkata,West Bengal,urban,rain,poor road,fatal
+2026-04-10 00:00:00,Mumbai,Maharashtra,highway,rain,weather,major
+2026-04-10 08:00:00,Pune,Maharashtra,rural,rain,distraction,minor
+2026-04-10 16:00:00,Delhi,Delhi,urban,fog,drunk driving,major
+2026-04-11 00:00:00,Chennai,Tamil Nadu,highway,fog,overspeeding,major
+2026-04-11 08:00:00,Pune,Maharashtra,urban,fog,overspeeding,minor
+2026-04-11 16:00:00,Hyderabad,Telangana,urban,rain,weather,major
+2026-04-12 00:00:00,Mumbai,Maharashtra,highway,fog,distraction,major
+2026-04-12 08:00:00,Bangalore,Karnataka,rural,clear,weather,major
+2026-04-12 16:00:00,Mumbai,Maharashtra,rural,rain,overspeeding,major
+2026-04-13 00:00:00,Kolkata,West Bengal,rural,clear,poor road,fatal
+2026-04-13 08:00:00,Chennai,Tamil Nadu,highway,fog,weather,minor
+2026-04-13 16:00:00,Chennai,Tamil Nadu,rural,clear,distraction,major
+2026-04-14 00:00:00,Mumbai,Maharashtra,urban,rain,overspeeding,fatal
+2026-04-14 08:00:00,Pune,Maharashtra,highway,rain,poor road,minor
+2026-04-14 16:00:00,Chennai,Tamil Nadu,highway,rain,drunk driving,major
+2026-04-15 00:00:00,Mumbai,Maharashtra,urban,rain,distraction,major
+2026-04-15 08:00:00,Chandigarh,Punjab,urban,rain,drunk driving,major
+2026-04-15 16:00:00,Bangalore,Karnataka,highway,rain,distraction,minor
+2026-04-16 00:00:00,Pune,Maharashtra,urban,clear,distraction,major
+2026-04-16 08:00:00,Hyderabad,Telangana,highway,rain,poor road,major
+2026-04-16 16:00:00,Kolkata,West Bengal,urban,clear,overspeeding,minor
+2026-04-17 00:00:00,Kolkata,West Bengal,highway,clear,weather,major
+2026-04-17 08:00:00,Chennai,Tamil Nadu,highway,rain,poor road,minor
+2026-04-17 16:00:00,Mumbai,Maharashtra,highway,clear,distraction,major
+2026-04-18 00:00:00,Bangalore,Karnataka,highway,fog,drunk driving,major
+2026-04-18 08:00:00,Mumbai,Maharashtra,urban,rain,drunk driving,major
+2026-04-18 16:00:00,Hyderabad,Telangana,highway,rain,distraction,fatal
+2026-04-19 00:00:00,Hyderabad,Telangana,rural,rain,weather,major
+2026-04-19 08:00:00,Chennai,Tamil Nadu,highway,rain,drunk driving,major
+2026-04-19 16:00:00,Chennai,Tamil Nadu,highway,rain,weather,minor
+2026-04-20 00:00:00,Pune,Maharashtra,highway,clear,distraction,major
+2026-04-20 08:00:00,Chandigarh,Punjab,rural,fog,drunk driving,fatal
+2026-04-20 16:00:00,Pune,Maharashtra,urban,rain,weather,major
+2026-04-21 00:00:00,Pune,Maharashtra,highway,fog,overspeeding,fatal
+2026-04-21 08:00:00,Hyderabad,Telangana,rural,rain,drunk driving,major
+2026-04-21 16:00:00,Bangalore,Karnataka,highway,fog,distraction,major
+2026-04-22 00:00:00,Kolkata,West Bengal,rural,clear,weather,major
+2026-04-22 08:00:00,Mumbai,Maharashtra,urban,clear,poor road,minor
+2026-04-22 16:00:00,Bangalore,Karnataka,urban,fog,weather,fatal
+2026-04-23 00:00:00,Kolkata,West Bengal,highway,fog,drunk driving,minor
+2026-04-23 08:00:00,Bangalore,Karnataka,highway,rain,drunk driving,minor
+2026-04-23 16:00:00,Bangalore,Karnataka,urban,clear,overspeeding,fatal
+2026-04-24 00:00:00,Chandigarh,Punjab,highway,clear,overspeeding,major
+2026-04-24 08:00:00,Chandigarh,Punjab,urban,clear,drunk driving,minor
+2026-04-24 16:00:00,Hyderabad,Telangana,urban,rain,overspeeding,major
+2026-04-25 00:00:00,Hyderabad,Telangana,rural,clear,distraction,major
+2026-04-25 08:00:00,Chandigarh,Punjab,rural,fog,poor road,minor
+2026-04-25 16:00:00,Delhi,Delhi,highway,clear,weather,minor
+2026-04-26 00:00:00,Pune,Maharashtra,rural,rain,drunk driving,minor
+2026-04-26 08:00:00,Delhi,Delhi,urban,clear,distraction,minor
+2026-04-26 16:00:00,Delhi,Delhi,highway,rain,distraction,minor
+2026-04-27 00:00:00,Chandigarh,Punjab,rural,fog,weather,major
+2026-04-27 08:00:00,Pune,Maharashtra,highway,clear,drunk driving,major
+2026-04-27 16:00:00,Mumbai,Maharashtra,urban,clear,poor road,major
+2026-04-28 00:00:00,Hyderabad,Telangana,highway,clear,distraction,major
+2026-04-28 08:00:00,Mumbai,Maharashtra,rural,rain,distraction,major
+2026-04-28 16:00:00,Pune,Maharashtra,highway,fog,weather,fatal
+2026-04-29 00:00:00,Delhi,Delhi,highway,fog,drunk driving,minor
+2026-04-29 08:00:00,Bangalore,Karnataka,urban,rain,drunk driving,minor
+2026-04-29 16:00:00,Chennai,Tamil Nadu,highway,clear,distraction,major
+2026-04-30 00:00:00,Chandigarh,Punjab,highway,rain,distraction,major
+2026-04-30 08:00:00,Chennai,Tamil Nadu,rural,rain,poor road,major
+2026-04-30 16:00:00,Bangalore,Karnataka,urban,clear,weather,minor
+2026-05-01 00:00:00,Pune,Maharashtra,urban,fog,poor road,minor
+2026-05-01 08:00:00,Hyderabad,Telangana,rural,rain,drunk driving,minor
+2026-05-01 16:00:00,Pune,Maharashtra,urban,rain,weather,minor
+2026-05-02 00:00:00,Hyderabad,Telangana,highway,fog,distraction,major
+2026-05-02 08:00:00,Chandigarh,Punjab,rural,clear,poor road,minor
+2026-05-02 16:00:00,Bangalore,Karnataka,highway,clear,distraction,major
+2026-05-03 00:00:00,Hyderabad,Telangana,rural,fog,drunk driving,minor
+2026-05-03 08:00:00,Bangalore,Karnataka,urban,rain,drunk driving,major
+2026-05-03 16:00:00,Chennai,Tamil Nadu,urban,fog,distraction,major
+2026-05-04 00:00:00,Pune,Maharashtra,rural,clear,overspeeding,major
+2026-05-04 08:00:00,Bangalore,Karnataka,highway,clear,poor road,major
+2026-05-04 16:00:00,Bangalore,Karnataka,rural,clear,overspeeding,minor
+2026-05-05 00:00:00,Chandigarh,Punjab,highway,rain,poor road,major
+2026-05-05 08:00:00,Bangalore,Karnataka,urban,rain,poor road,minor
+2026-05-05 16:00:00,Mumbai,Maharashtra,rural,clear,overspeeding,major
+2026-05-06 00:00:00,Delhi,Delhi,highway,rain,drunk driving,minor
+2026-05-06 08:00:00,Chennai,Tamil Nadu,rural,fog,overspeeding,major
+2026-05-06 16:00:00,Chennai,Tamil Nadu,highway,rain,weather,minor
+2026-05-07 00:00:00,Hyderabad,Telangana,urban,fog,weather,major
+2026-05-07 08:00:00,Delhi,Delhi,rural,clear,distraction,major
+2026-05-07 16:00:00,Bangalore,Karnataka,rural,rain,weather,fatal
+2026-05-08 00:00:00,Delhi,Delhi,rural,clear,distraction,major
+2026-05-08 08:00:00,Chennai,Tamil Nadu,highway,clear,weather,major
+2026-05-08 16:00:00,Hyderabad,Telangana,highway,rain,overspeeding,fatal
+2026-05-09 00:00:00,Mumbai,Maharashtra,highway,rain,distraction,major
+2026-05-09 08:00:00,Chandigarh,Punjab,urban,rain,overspeeding,minor
+2026-05-09 16:00:00,Chennai,Tamil Nadu,highway,fog,weather,major
+2026-05-10 00:00:00,Kolkata,West Bengal,rural,clear,poor road,major
+2026-05-10 08:00:00,Hyderabad,Telangana,rural,rain,drunk driving,fatal
+2026-05-10 16:00:00,Delhi,Delhi,urban,clear,weather,major
+2026-05-11 00:00:00,Chennai,Tamil Nadu,rural,fog,poor road,major
+2026-05-11 08:00:00,Bangalore,Karnataka,urban,clear,overspeeding,fatal
+2026-05-11 16:00:00,Pune,Maharashtra,rural,clear,poor road,minor
+2026-05-12 00:00:00,Chennai,Tamil Nadu,urban,clear,distraction,major
+2026-05-12 08:00:00,Kolkata,West Bengal,rural,fog,drunk driving,major
+2026-05-12 16:00:00,Hyderabad,Telangana,highway,rain,drunk driving,major
+2026-05-13 00:00:00,Bangalore,Karnataka,highway,fog,overspeeding,fatal
+2026-05-13 08:00:00,Delhi,Delhi,urban,rain,poor road,minor
+2026-05-13 16:00:00,Chandigarh,Punjab,highway,clear,overspeeding,major
+2026-05-14 00:00:00,Hyderabad,Telangana,highway,rain,distraction,major
+2026-05-14 08:00:00,Hyderabad,Telangana,rural,fog,drunk driving,major
+2026-05-14 16:00:00,Chandigarh,Punjab,rural,fog,poor road,major
+2026-05-15 00:00:00,Chennai,Tamil Nadu,highway,clear,drunk driving,minor
+2026-05-15 08:00:00,Hyderabad,Telangana,urban,clear,drunk driving,major
+2026-05-15 16:00:00,Bangalore,Karnataka,rural,rain,distraction,major
+2026-05-16 00:00:00,Delhi,Delhi,highway,clear,overspeeding,minor
+2026-05-16 08:00:00,Chandigarh,Punjab,rural,rain,overspeeding,major
+2026-05-16 16:00:00,Chennai,Tamil Nadu,urban,fog,weather,fatal
+2026-05-17 00:00:00,Chandigarh,Punjab,highway,clear,poor road,fatal
+2026-05-17 08:00:00,Kolkata,West Bengal,urban,clear,distraction,fatal
+2026-05-17 16:00:00,Chandigarh,Punjab,highway,rain,weather,minor
+2026-05-18 00:00:00,Delhi,Delhi,highway,fog,weather,major
+2026-05-18 08:00:00,Delhi,Delhi,rural,rain,poor road,fatal
+2026-05-18 16:00:00,Mumbai,Maharashtra,rural,clear,overspeeding,major
+2026-05-19 00:00:00,Bangalore,Karnataka,urban,rain,drunk driving,minor
+2026-05-19 08:00:00,Hyderabad,Telangana,urban,clear,poor road,major
+2026-05-19 16:00:00,Chandigarh,Punjab,highway,fog,distraction,major
+2026-05-20 00:00:00,Mumbai,Maharashtra,urban,fog,poor road,major
+2026-05-20 08:00:00,Chennai,Tamil Nadu,rural,clear,poor road,minor
+2026-05-20 16:00:00,Hyderabad,Telangana,urban,fog,distraction,major
+2026-05-21 00:00:00,Chennai,Tamil Nadu,highway,rain,drunk driving,major
+2026-05-21 08:00:00,Hyderabad,Telangana,urban,fog,drunk driving,major
+2026-05-21 16:00:00,Kolkata,West Bengal,rural,clear,drunk driving,major
+2026-05-22 00:00:00,Chandigarh,Punjab,highway,clear,weather,fatal
+2026-05-22 08:00:00,Chandigarh,Punjab,urban,clear,poor road,minor
+2026-05-22 16:00:00,Kolkata,West Bengal,rural,fog,poor road,major
+2026-05-23 00:00:00,Chandigarh,Punjab,urban,rain,distraction,major
+2026-05-23 08:00:00,Hyderabad,Telangana,urban,fog,poor road,fatal
+2026-05-23 16:00:00,Chennai,Tamil Nadu,urban,fog,weather,minor
+2026-05-24 00:00:00,Chennai,Tamil Nadu,highway,rain,overspeeding,major
+2026-05-24 08:00:00,Bangalore,Karnataka,rural,fog,overspeeding,major
+2026-05-24 16:00:00,Mumbai,Maharashtra,highway,clear,overspeeding,major
+2026-05-25 00:00:00,Chennai,Tamil Nadu,highway,rain,overspeeding,minor
+2026-05-25 08:00:00,Kolkata,West Bengal,urban,clear,drunk driving,fatal
+2026-05-25 16:00:00,Delhi,Delhi,urban,clear,poor road,fatal
+2026-05-26 00:00:00,Mumbai,Maharashtra,highway,rain,drunk driving,major
+2026-05-26 08:00:00,Chandigarh,Punjab,urban,rain,weather,minor
+2026-05-26 16:00:00,Chennai,Tamil Nadu,rural,clear,poor road,minor
+2026-05-27 00:00:00,Bangalore,Karnataka,rural,clear,distraction,major
+2026-05-27 08:00:00,Pune,Maharashtra,urban,fog,weather,minor
+2026-05-27 16:00:00,Chennai,Tamil Nadu,rural,clear,drunk driving,major
+2026-05-28 00:00:00,Bangalore,Karnataka,rural,fog,overspeeding,major
+2026-05-28 08:00:00,Pune,Maharashtra,urban,clear,drunk driving,minor
+2026-05-28 16:00:00,Chennai,Tamil Nadu,urban,rain,poor road,minor
+2026-05-29 00:00:00,Hyderabad,Telangana,rural,rain,overspeeding,major
+2026-05-29 08:00:00,Chennai,Tamil Nadu,rural,fog,distraction,major
+2026-05-29 16:00:00,Chennai,Tamil Nadu,highway,rain,weather,major
+2026-05-30 00:00:00,Delhi,Delhi,highway,fog,poor road,major
+2026-05-30 08:00:00,Chandigarh,Punjab,highway,clear,overspeeding,minor
+2026-05-30 16:00:00,Mumbai,Maharashtra,rural,rain,overspeeding,major
+2026-05-31 00:00:00,Hyderabad,Telangana,urban,fog,overspeeding,major
+2026-05-31 08:00:00,Hyderabad,Telangana,urban,rain,distraction,major
+2026-05-31 16:00:00,Pune,Maharashtra,highway,rain,overspeeding,major
+2026-06-01 00:00:00,Chandigarh,Punjab,highway,rain,distraction,major
+2026-06-01 08:00:00,Hyderabad,Telangana,rural,clear,drunk driving,fatal
+2026-06-01 16:00:00,Chandigarh,Punjab,rural,rain,distraction,major
+2026-06-02 00:00:00,Kolkata,West Bengal,urban,clear,overspeeding,minor
+2026-06-02 08:00:00,Chandigarh,Punjab,highway,clear,poor road,minor
+2026-06-02 16:00:00,Delhi,Delhi,rural,clear,poor road,major
+2026-06-03 00:00:00,Mumbai,Maharashtra,urban,rain,poor road,major
+2026-06-03 08:00:00,Chennai,Tamil Nadu,rural,clear,drunk driving,major
+2026-06-03 16:00:00,Delhi,Delhi,urban,clear,poor road,minor
+2026-06-04 00:00:00,Bangalore,Karnataka,rural,fog,overspeeding,minor
+2026-06-04 08:00:00,Delhi,Delhi,rural,fog,drunk driving,major
+2026-06-04 16:00:00,Pune,Maharashtra,highway,fog,poor road,minor
+2026-06-05 00:00:00,Hyderabad,Telangana,highway,clear,drunk driving,major
+2026-06-05 08:00:00,Chennai,Tamil Nadu,urban,clear,overspeeding,minor
+2026-06-05 16:00:00,Hyderabad,Telangana,rural,clear,weather,minor
+2026-06-06 00:00:00,Pune,Maharashtra,rural,rain,overspeeding,major
+2026-06-06 08:00:00,Pune,Maharashtra,rural,fog,distraction,major
+2026-06-06 16:00:00,Mumbai,Maharashtra,urban,rain,weather,fatal
+2026-06-07 00:00:00,Delhi,Delhi,urban,rain,poor road,major
+2026-06-07 08:00:00,Mumbai,Maharashtra,urban,clear,overspeeding,minor
+2026-06-07 16:00:00,Chandigarh,Punjab,highway,rain,overspeeding,minor
+2026-06-08 00:00:00,Chennai,Tamil Nadu,highway,fog,drunk driving,minor
+2026-06-08 08:00:00,Bangalore,Karnataka,urban,clear,distraction,major
+2026-06-08 16:00:00,Delhi,Delhi,highway,rain,distraction,minor
+2026-06-09 00:00:00,Pune,Maharashtra,urban,clear,distraction,major
+2026-06-09 08:00:00,Mumbai,Maharashtra,highway,rain,poor road,major
+2026-06-09 16:00:00,Delhi,Delhi,rural,clear,overspeeding,major
+2026-06-10 00:00:00,Chandigarh,Punjab,highway,clear,drunk driving,minor
+2026-06-10 08:00:00,Chandigarh,Punjab,rural,fog,overspeeding,minor
+2026-06-10 16:00:00,Chandigarh,Punjab,highway,clear,poor road,major
+2026-06-11 00:00:00,Chennai,Tamil Nadu,highway,clear,overspeeding,minor
+2026-06-11 08:00:00,Kolkata,West Bengal,rural,rain,overspeeding,minor
+2026-06-11 16:00:00,Chandigarh,Punjab,highway,clear,weather,major
+2026-06-12 00:00:00,Hyderabad,Telangana,rural,rain,overspeeding,major
+2026-06-12 08:00:00,Chandigarh,Punjab,urban,fog,drunk driving,major
+2026-06-12 16:00:00,Kolkata,West Bengal,urban,rain,weather,minor
+2026-06-13 00:00:00,Hyderabad,Telangana,highway,fog,overspeeding,major
+2026-06-13 08:00:00,Mumbai,Maharashtra,rural,rain,drunk driving,major
+2026-06-13 16:00:00,Mumbai,Maharashtra,rural,rain,weather,fatal
+2026-06-14 00:00:00,Hyderabad,Telangana,rural,rain,distraction,major
+2026-06-14 08:00:00,Delhi,Delhi,urban,fog,weather,minor
+2026-06-14 16:00:00,Mumbai,Maharashtra,urban,clear,weather,major
+2026-06-15 00:00:00,Mumbai,Maharashtra,rural,clear,poor road,major
+2026-06-15 08:00:00,Chennai,Tamil Nadu,highway,fog,poor road,major
+2026-06-15 16:00:00,Delhi,Delhi,rural,fog,poor road,fatal
+2026-06-16 00:00:00,Delhi,Delhi,urban,fog,poor road,fatal
+2026-06-16 08:00:00,Mumbai,Maharashtra,highway,clear,poor road,minor
+2026-06-16 16:00:00,Hyderabad,Telangana,rural,fog,drunk driving,major
+2026-06-17 00:00:00,Bangalore,Karnataka,highway,fog,drunk driving,fatal
+2026-06-17 08:00:00,Bangalore,Karnataka,urban,clear,drunk driving,minor
+2026-06-17 16:00:00,Bangalore,Karnataka,highway,clear,drunk driving,fatal
+2026-06-18 00:00:00,Kolkata,West Bengal,highway,rain,poor road,minor
+2026-06-18 08:00:00,Kolkata,West Bengal,rural,rain,distraction,major
+2026-06-18 16:00:00,Bangalore,Karnataka,highway,fog,weather,minor
+2026-06-19 00:00:00,Mumbai,Maharashtra,rural,clear,overspeeding,major
+2026-06-19 08:00:00,Chandigarh,Punjab,highway,rain,drunk driving,fatal
+2026-06-19 16:00:00,Hyderabad,Telangana,highway,clear,poor road,major
+2026-06-20 00:00:00,Delhi,Delhi,urban,rain,overspeeding,fatal
+2026-06-20 08:00:00,Kolkata,West Bengal,highway,rain,distraction,minor
+2026-06-20 16:00:00,Bangalore,Karnataka,rural,clear,weather,major
+2026-06-21 00:00:00,Hyderabad,Telangana,urban,clear,weather,major
+2026-06-21 08:00:00,Hyderabad,Telangana,rural,clear,drunk driving,fatal
+2026-06-21 16:00:00,Chandigarh,Punjab,urban,rain,weather,minor
+2026-06-22 00:00:00,Chandigarh,Punjab,urban,rain,drunk driving,minor
+2026-06-22 08:00:00,Chandigarh,Punjab,rural,rain,distraction,major
+2026-06-22 16:00:00,Hyderabad,Telangana,highway,rain,weather,major
+2026-06-23 00:00:00,Bangalore,Karnataka,highway,fog,weather,minor
+2026-06-23 08:00:00,Chennai,Tamil Nadu,urban,fog,distraction,major
+2026-06-23 16:00:00,Chandigarh,Punjab,rural,clear,distraction,major
+2026-06-24 00:00:00,Kolkata,West Bengal,urban,clear,weather,major
+2026-06-24 08:00:00,Chennai,Tamil Nadu,urban,clear,drunk driving,major
+2026-06-24 16:00:00,Pune,Maharashtra,urban,clear,weather,minor
+2026-06-25 00:00:00,Mumbai,Maharashtra,highway,rain,overspeeding,major
+2026-06-25 08:00:00,Chennai,Tamil Nadu,highway,clear,overspeeding,minor
+2026-06-25 16:00:00,Bangalore,Karnataka,rural,clear,distraction,major
+2026-06-26 00:00:00,Bangalore,Karnataka,rural,rain,overspeeding,minor
+2026-06-26 08:00:00,Delhi,Delhi,urban,rain,weather,fatal
+2026-06-26 16:00:00,Pune,Maharashtra,rural,rain,weather,minor
+2026-06-27 00:00:00,Bangalore,Karnataka,highway,fog,poor road,minor
+2026-06-27 08:00:00,Chennai,Tamil Nadu,highway,rain,poor road,major
+2026-06-27 16:00:00,Pune,Maharashtra,rural,clear,distraction,major
+2026-06-28 00:00:00,Kolkata,West Bengal,highway,rain,distraction,major
+2026-06-28 08:00:00,Chandigarh,Punjab,urban,fog,distraction,minor
+2026-06-28 16:00:00,Bangalore,Karnataka,rural,clear,overspeeding,major
+2026-06-29 00:00:00,Pune,Maharashtra,rural,rain,overspeeding,major
+2026-06-29 08:00:00,Bangalore,Karnataka,urban,rain,overspeeding,minor
+2026-06-29 16:00:00,Chennai,Tamil Nadu,urban,fog,drunk driving,major
+2026-06-30 00:00:00,Chennai,Tamil Nadu,highway,clear,drunk driving,major
+2026-06-30 08:00:00,Mumbai,Maharashtra,rural,rain,weather,major
+2026-06-30 16:00:00,Chennai,Tamil Nadu,urban,fog,distraction,minor
+2026-07-01 00:00:00,Chennai,Tamil Nadu,urban,fog,weather,fatal
+2026-07-01 08:00:00,Chandigarh,Punjab,urban,rain,drunk driving,major
+2026-07-01 16:00:00,Bangalore,Karnataka,rural,clear,weather,major
+2026-07-02 00:00:00,Pune,Maharashtra,rural,rain,overspeeding,major
+2026-07-02 08:00:00,Bangalore,Karnataka,rural,rain,poor road,minor
+2026-07-02 16:00:00,Delhi,Delhi,highway,fog,weather,major
+2026-07-03 00:00:00,Bangalore,Karnataka,rural,fog,distraction,fatal
+2026-07-03 08:00:00,Delhi,Delhi,rural,fog,poor road,minor
+2026-07-03 16:00:00,Bangalore,Karnataka,highway,clear,distraction,major
+2026-07-04 00:00:00,Delhi,Delhi,urban,rain,drunk driving,minor
+2026-07-04 08:00:00,Chandigarh,Punjab,highway,clear,weather,minor
+2026-07-04 16:00:00,Delhi,Delhi,highway,clear,weather,major
+2026-07-05 00:00:00,Mumbai,Maharashtra,highway,fog,weather,major
+2026-07-05 08:00:00,Chandigarh,Punjab,rural,rain,weather,minor
+2026-07-05 16:00:00,Hyderabad,Telangana,highway,fog,distraction,major
+2026-07-06 00:00:00,Hyderabad,Telangana,urban,rain,overspeeding,major
+2026-07-06 08:00:00,Bangalore,Karnataka,urban,rain,poor road,fatal
+2026-07-06 16:00:00,Hyderabad,Telangana,urban,rain,overspeeding,major
+2026-07-07 00:00:00,Pune,Maharashtra,urban,clear,poor road,minor
+2026-07-07 08:00:00,Chennai,Tamil Nadu,urban,clear,poor road,minor
+2026-07-07 16:00:00,Chennai,Tamil Nadu,highway,fog,drunk driving,major
+2026-07-08 00:00:00,Bangalore,Karnataka,rural,clear,poor road,major
+2026-07-08 08:00:00,Delhi,Delhi,highway,clear,distraction,major
+2026-07-08 16:00:00,Mumbai,Maharashtra,urban,fog,poor road,major
+2026-07-09 00:00:00,Chennai,Tamil Nadu,urban,clear,distraction,major
+2026-07-09 08:00:00,Mumbai,Maharashtra,rural,fog,distraction,major
+2026-07-09 16:00:00,Delhi,Delhi,highway,fog,poor road,minor
+2026-07-10 00:00:00,Chennai,Tamil Nadu,highway,rain,poor road,major
+2026-07-10 08:00:00,Bangalore,Karnataka,urban,clear,poor road,minor
+2026-07-10 16:00:00,Chandigarh,Punjab,urban,rain,distraction,major
+2026-07-11 00:00:00,Chandigarh,Punjab,highway,clear,weather,major
+2026-07-11 08:00:00,Pune,Maharashtra,urban,clear,drunk driving,minor
+2026-07-11 16:00:00,Delhi,Delhi,rural,fog,overspeeding,major
+2026-07-12 00:00:00,Delhi,Delhi,rural,rain,poor road,fatal
+2026-07-12 08:00:00,Mumbai,Maharashtra,urban,fog,poor road,major
+2026-07-12 16:00:00,Hyderabad,Telangana,rural,rain,drunk driving,major
+2026-07-13 00:00:00,Chandigarh,Punjab,rural,clear,drunk driving,major
+2026-07-13 08:00:00,Delhi,Delhi,rural,fog,drunk driving,minor
+2026-07-13 16:00:00,Mumbai,Maharashtra,rural,rain,distraction,major
+2026-07-14 00:00:00,Kolkata,West Bengal,highway,clear,poor road,major
+2026-07-14 08:00:00,Hyderabad,Telangana,rural,fog,weather,major
+2026-07-14 16:00:00,Pune,Maharashtra,highway,rain,poor road,fatal
+2026-07-15 00:00:00,Mumbai,Maharashtra,rural,fog,drunk driving,fatal
+2026-07-15 08:00:00,Hyderabad,Telangana,highway,rain,distraction,major
+2026-07-15 16:00:00,Kolkata,West Bengal,rural,clear,weather,major
+2026-07-16 00:00:00,Chandigarh,Punjab,rural,fog,distraction,major
+2026-07-16 08:00:00,Mumbai,Maharashtra,urban,rain,overspeeding,major
+2026-07-16 16:00:00,Hyderabad,Telangana,highway,fog,distraction,major
+2026-07-17 00:00:00,Pune,Maharashtra,rural,clear,distraction,major
+2026-07-17 08:00:00,Chandigarh,Punjab,urban,clear,weather,major
+2026-07-17 16:00:00,Kolkata,West Bengal,rural,clear,weather,major
+2026-07-18 00:00:00,Mumbai,Maharashtra,rural,clear,poor road,major
+2026-07-18 08:00:00,Delhi,Delhi,highway,rain,weather,major
+2026-07-18 16:00:00,Hyderabad,Telangana,highway,fog,drunk driving,major
+2026-07-19 00:00:00,Mumbai,Maharashtra,rural,fog,drunk driving,major
+2026-07-19 08:00:00,Bangalore,Karnataka,rural,clear,overspeeding,major
+2026-07-19 16:00:00,Bangalore,Karnataka,highway,rain,overspeeding,major
+2026-07-20 00:00:00,Mumbai,Maharashtra,urban,clear,overspeeding,major
+2026-07-20 08:00:00,Chennai,Tamil Nadu,highway,clear,overspeeding,fatal
+2026-07-20 16:00:00,Chennai,Tamil Nadu,urban,rain,drunk driving,major
+2026-07-21 00:00:00,Bangalore,Karnataka,urban,fog,drunk driving,major
+2026-07-21 08:00:00,Bangalore,Karnataka,rural,fog,weather,minor
+2026-07-21 16:00:00,Chandigarh,Punjab,urban,fog,drunk driving,major
+2026-07-22 00:00:00,Hyderabad,Telangana,highway,fog,overspeeding,major
+2026-07-22 08:00:00,Bangalore,Karnataka,rural,clear,weather,minor
+2026-07-22 16:00:00,Bangalore,Karnataka,urban,rain,poor road,minor
+2026-07-23 00:00:00,Bangalore,Karnataka,urban,clear,drunk driving,major
+2026-07-23 08:00:00,Mumbai,Maharashtra,rural,clear,distraction,fatal
+2026-07-23 16:00:00,Hyderabad,Telangana,highway,clear,overspeeding,major
+2026-07-24 00:00:00,Kolkata,West Bengal,urban,clear,poor road,fatal
+2026-07-24 08:00:00,Pune,Maharashtra,rural,fog,drunk driving,fatal
+2026-07-24 16:00:00,Hyderabad,Telangana,rural,rain,overspeeding,major
+2026-07-25 00:00:00,Kolkata,West Bengal,highway,rain,weather,minor
+2026-07-25 08:00:00,Hyderabad,Telangana,urban,fog,drunk driving,major
+2026-07-25 16:00:00,Mumbai,Maharashtra,highway,rain,weather,fatal
+2026-07-26 00:00:00,Delhi,Delhi,highway,fog,weather,minor
+2026-07-26 08:00:00,Pune,Maharashtra,rural,clear,overspeeding,minor
+2026-07-26 16:00:00,Delhi,Delhi,urban,fog,overspeeding,minor
+2026-07-27 00:00:00,Kolkata,West Bengal,urban,fog,weather,major
+2026-07-27 08:00:00,Hyderabad,Telangana,highway,fog,drunk driving,fatal
+2026-07-27 16:00:00,Hyderabad,Telangana,highway,clear,poor road,major
+2026-07-28 00:00:00,Hyderabad,Telangana,highway,clear,distraction,major
+2026-07-28 08:00:00,Chennai,Tamil Nadu,highway,rain,overspeeding,major
+2026-07-28 16:00:00,Delhi,Delhi,rural,rain,poor road,minor
+2026-07-29 00:00:00,Delhi,Delhi,rural,rain,overspeeding,minor
+2026-07-29 08:00:00,Bangalore,Karnataka,urban,clear,drunk driving,fatal
+2026-07-29 16:00:00,Chennai,Tamil Nadu,highway,rain,distraction,major
+2026-07-30 00:00:00,Kolkata,West Bengal,highway,clear,overspeeding,major
+2026-07-30 08:00:00,Kolkata,West Bengal,urban,rain,poor road,minor
+2026-07-30 16:00:00,Pune,Maharashtra,highway,clear,overspeeding,minor
+2026-07-31 00:00:00,Pune,Maharashtra,rural,fog,overspeeding,major
+2026-07-31 08:00:00,Bangalore,Karnataka,urban,clear,weather,minor
+2026-07-31 16:00:00,Mumbai,Maharashtra,highway,fog,distraction,major
+2026-08-01 00:00:00,Kolkata,West Bengal,highway,rain,weather,major
+2026-08-01 08:00:00,Chennai,Tamil Nadu,highway,rain,weather,fatal
+2026-08-01 16:00:00,Kolkata,West Bengal,urban,fog,weather,major
+2026-08-02 00:00:00,Pune,Maharashtra,rural,rain,distraction,major
+2026-08-02 08:00:00,Chandigarh,Punjab,rural,fog,weather,major
+2026-08-02 16:00:00,Bangalore,Karnataka,rural,rain,drunk driving,major
+2026-08-03 00:00:00,Chennai,Tamil Nadu,urban,rain,weather,major
+2026-08-03 08:00:00,Chennai,Tamil Nadu,highway,fog,distraction,minor
+2026-08-03 16:00:00,Kolkata,West Bengal,rural,clear,poor road,major
+2026-08-04 00:00:00,Bangalore,Karnataka,rural,clear,weather,major
+2026-08-04 08:00:00,Mumbai,Maharashtra,urban,clear,distraction,major
+2026-08-04 16:00:00,Delhi,Delhi,highway,fog,distraction,major
+2026-08-05 00:00:00,Delhi,Delhi,rural,clear,drunk driving,major
+2026-08-05 08:00:00,Chandigarh,Punjab,highway,rain,distraction,major
+2026-08-05 16:00:00,Kolkata,West Bengal,rural,fog,weather,minor
+2026-08-06 00:00:00,Pune,Maharashtra,rural,clear,weather,major
+2026-08-06 08:00:00,Pune,Maharashtra,rural,rain,overspeeding,major
+2026-08-06 16:00:00,Delhi,Delhi,rural,rain,weather,major
+2026-08-07 00:00:00,Chennai,Tamil Nadu,rural,clear,drunk driving,minor
+2026-08-07 08:00:00,Mumbai,Maharashtra,rural,clear,overspeeding,major
+2026-08-07 16:00:00,Bangalore,Karnataka,rural,clear,overspeeding,minor
+2026-08-08 00:00:00,Pune,Maharashtra,urban,fog,weather,minor
+2026-08-08 08:00:00,Hyderabad,Telangana,rural,clear,weather,major
+2026-08-08 16:00:00,Chennai,Tamil Nadu,rural,clear,drunk driving,major
+2026-08-09 00:00:00,Bangalore,Karnataka,highway,rain,drunk driving,minor
+2026-08-09 08:00:00,Chennai,Tamil Nadu,urban,fog,drunk driving,major
+2026-08-09 16:00:00,Chandigarh,Punjab,highway,rain,drunk driving,major
+2026-08-10 00:00:00,Chandigarh,Punjab,urban,clear,overspeeding,major
+2026-08-10 08:00:00,Mumbai,Maharashtra,urban,fog,poor road,major
+2026-08-10 16:00:00,Mumbai,Maharashtra,highway,clear,distraction,major
+2026-08-11 00:00:00,Hyderabad,Telangana,rural,rain,drunk driving,major
+2026-08-11 08:00:00,Delhi,Delhi,urban,fog,drunk driving,major
+2026-08-11 16:00:00,Kolkata,West Bengal,urban,rain,distraction,major
+2026-08-12 00:00:00,Mumbai,Maharashtra,highway,rain,poor road,major
+2026-08-12 08:00:00,Delhi,Delhi,urban,clear,drunk driving,major
+2026-08-12 16:00:00,Kolkata,West Bengal,urban,rain,poor road,minor
+2026-08-13 00:00:00,Chandigarh,Punjab,rural,clear,overspeeding,major
+2026-08-13 08:00:00,Delhi,Delhi,rural,fog,poor road,minor
+2026-08-13 16:00:00,Bangalore,Karnataka,highway,clear,drunk driving,minor
+2026-08-14 00:00:00,Pune,Maharashtra,rural,clear,weather,minor
+2026-08-14 08:00:00,Chandigarh,Punjab,rural,fog,drunk driving,major
+2026-08-14 16:00:00,Mumbai,Maharashtra,highway,rain,weather,major
+2026-08-15 00:00:00,Mumbai,Maharashtra,rural,fog,overspeeding,major
+2026-08-15 08:00:00,Bangalore,Karnataka,rural,rain,poor road,minor
+2026-08-15 16:00:00,Bangalore,Karnataka,urban,rain,drunk driving,major
+2026-08-16 00:00:00,Bangalore,Karnataka,rural,rain,distraction,major
+2026-08-16 08:00:00,Mumbai,Maharashtra,rural,fog,poor road,fatal
+2026-08-16 16:00:00,Kolkata,West Bengal,urban,fog,drunk driving,major
+2026-08-17 00:00:00,Kolkata,West Bengal,rural,rain,poor road,major
+2026-08-17 08:00:00,Pune,Maharashtra,rural,rain,weather,minor
+2026-08-17 16:00:00,Hyderabad,Telangana,highway,rain,drunk driving,fatal
+2026-08-18 00:00:00,Chennai,Tamil Nadu,highway,fog,weather,major
+2026-08-18 08:00:00,Hyderabad,Telangana,urban,fog,poor road,major
+2026-08-18 16:00:00,Chandigarh,Punjab,highway,fog,poor road,major
+2026-08-19 00:00:00,Pune,Maharashtra,highway,rain,drunk driving,minor
+2026-08-19 08:00:00,Pune,Maharashtra,highway,rain,poor road,minor
+2026-08-19 16:00:00,Pune,Maharashtra,highway,clear,overspeeding,minor
+2026-08-20 00:00:00,Delhi,Delhi,rural,fog,distraction,major
+2026-08-20 08:00:00,Chandigarh,Punjab,urban,fog,poor road,minor
+2026-08-20 16:00:00,Kolkata,West Bengal,highway,fog,overspeeding,major
+2026-08-21 00:00:00,Kolkata,West Bengal,urban,rain,poor road,major
+2026-08-21 08:00:00,Chandigarh,Punjab,highway,rain,poor road,minor
+2026-08-21 16:00:00,Chandigarh,Punjab,rural,rain,distraction,major
+2026-08-22 00:00:00,Delhi,Delhi,highway,fog,poor road,major
+2026-08-22 08:00:00,Chandigarh,Punjab,highway,fog,distraction,major
+2026-08-22 16:00:00,Mumbai,Maharashtra,rural,fog,weather,fatal
+2026-08-23 00:00:00,Hyderabad,Telangana,urban,clear,weather,fatal
+2026-08-23 08:00:00,Mumbai,Maharashtra,rural,rain,distraction,major
+2026-08-23 16:00:00,Hyderabad,Telangana,highway,fog,poor road,major
+2026-08-24 00:00:00,Chennai,Tamil Nadu,highway,rain,distraction,major
+2026-08-24 08:00:00,Mumbai,Maharashtra,highway,clear,drunk driving,major
+2026-08-24 16:00:00,Kolkata,West Bengal,highway,fog,weather,minor
+2026-08-25 00:00:00,Delhi,Delhi,rural,rain,drunk driving,minor
+2026-08-25 08:00:00,Kolkata,West Bengal,rural,rain,distraction,major
+2026-08-25 16:00:00,Pune,Maharashtra,urban,fog,poor road,major
+2026-08-26 00:00:00,Delhi,Delhi,urban,clear,overspeeding,major
+2026-08-26 08:00:00,Chennai,Tamil Nadu,highway,fog,weather,major
+2026-08-26 16:00:00,Chennai,Tamil Nadu,rural,clear,overspeeding,major
+2026-08-27 00:00:00,Mumbai,Maharashtra,urban,rain,drunk driving,minor
+2026-08-27 08:00:00,Kolkata,West Bengal,highway,fog,overspeeding,minor
+2026-08-27 16:00:00,Chandigarh,Punjab,urban,fog,weather,major
+2026-08-28 00:00:00,Pune,Maharashtra,highway,clear,drunk driving,major
+2026-08-28 08:00:00,Chennai,Tamil Nadu,rural,rain,drunk driving,minor
+2026-08-28 16:00:00,Chennai,Tamil Nadu,highway,rain,weather,minor
+2026-08-29 00:00:00,Chennai,Tamil Nadu,urban,rain,poor road,major
+2026-08-29 08:00:00,Chandigarh,Punjab,highway,clear,distraction,major
+2026-08-29 16:00:00,Bangalore,Karnataka,rural,clear,overspeeding,minor
+2026-08-30 00:00:00,Delhi,Delhi,highway,rain,drunk driving,minor
+2026-08-30 08:00:00,Chandigarh,Punjab,rural,rain,poor road,major
+2026-08-30 16:00:00,Chennai,Tamil Nadu,highway,clear,poor road,major
+2026-08-31 00:00:00,Hyderabad,Telangana,highway,clear,poor road,major
+2026-08-31 08:00:00,Chennai,Tamil Nadu,highway,rain,distraction,fatal
+2026-08-31 16:00:00,Delhi,Delhi,highway,clear,poor road,major
+2026-09-01 00:00:00,Chandigarh,Punjab,highway,fog,drunk driving,minor
+2026-09-01 08:00:00,Hyderabad,Telangana,rural,rain,overspeeding,major
+2026-09-01 16:00:00,Hyderabad,Telangana,highway,fog,poor road,major
+2026-09-02 00:00:00,Chennai,Tamil Nadu,urban,rain,overspeeding,major
+2026-09-02 08:00:00,Hyderabad,Telangana,rural,clear,distraction,major
+2026-09-02 16:00:00,Bangalore,Karnataka,rural,fog,distraction,major
+2026-09-03 00:00:00,Chandigarh,Punjab,rural,clear,drunk driving,minor
+2026-09-03 08:00:00,Delhi,Delhi,highway,rain,drunk driving,major
+2026-09-03 16:00:00,Kolkata,West Bengal,highway,rain,weather,major
+2026-09-04 00:00:00,Kolkata,West Bengal,rural,clear,poor road,major
+2026-09-04 08:00:00,Kolkata,West Bengal,urban,clear,overspeeding,minor
+2026-09-04 16:00:00,Delhi,Delhi,urban,fog,drunk driving,major
+2026-09-05 00:00:00,Bangalore,Karnataka,rural,clear,distraction,major
+2026-09-05 08:00:00,Chandigarh,Punjab,urban,rain,poor road,minor
+2026-09-05 16:00:00,Hyderabad,Telangana,urban,rain,overspeeding,minor
+2026-09-06 00:00:00,Chandigarh,Punjab,urban,clear,overspeeding,major
+2026-09-06 08:00:00,Pune,Maharashtra,urban,clear,distraction,minor
+2026-09-06 16:00:00,Bangalore,Karnataka,highway,fog,poor road,minor
+2026-09-07 00:00:00,Delhi,Delhi,highway,rain,distraction,fatal
+2026-09-07 08:00:00,Chennai,Tamil Nadu,highway,rain,overspeeding,minor
+2026-09-07 16:00:00,Kolkata,West Bengal,rural,rain,overspeeding,minor
+2026-09-08 00:00:00,Kolkata,West Bengal,rural,clear,poor road,major
+2026-09-08 08:00:00,Chennai,Tamil Nadu,urban,rain,weather,major
+2026-09-08 16:00:00,Bangalore,Karnataka,highway,rain,weather,minor
+2026-09-09 00:00:00,Chennai,Tamil Nadu,rural,rain,drunk driving,minor
+2026-09-09 08:00:00,Kolkata,West Bengal,highway,clear,poor road,minor
+2026-09-09 16:00:00,Pune,Maharashtra,urban,fog,distraction,major
+2026-09-10 00:00:00,Chennai,Tamil Nadu,rural,clear,overspeeding,minor
+2026-09-10 08:00:00,Mumbai,Maharashtra,rural,rain,drunk driving,major
+2026-09-10 16:00:00,Bangalore,Karnataka,highway,clear,distraction,major
+2026-09-11 00:00:00,Delhi,Delhi,rural,rain,weather,major
+2026-09-11 08:00:00,Mumbai,Maharashtra,highway,fog,distraction,major
+2026-09-11 16:00:00,Pune,Maharashtra,urban,rain,drunk driving,major
+2026-09-12 00:00:00,Bangalore,Karnataka,highway,clear,poor road,major
+2026-09-12 08:00:00,Delhi,Delhi,urban,rain,distraction,minor
+2026-09-12 16:00:00,Hyderabad,Telangana,rural,fog,poor road,major
+2026-09-13 00:00:00,Bangalore,Karnataka,rural,rain,poor road,fatal
+2026-09-13 08:00:00,Pune,Maharashtra,urban,clear,distraction,minor
+2026-09-13 16:00:00,Pune,Maharashtra,rural,clear,poor road,fatal
+2026-09-14 00:00:00,Delhi,Delhi,rural,rain,distraction,minor
+2026-09-14 08:00:00,Pune,Maharashtra,urban,fog,distraction,minor
+2026-09-14 16:00:00,Bangalore,Karnataka,highway,fog,drunk driving,fatal
+2026-09-15 00:00:00,Chandigarh,Punjab,urban,fog,weather,major
+2026-09-15 08:00:00,Kolkata,West Bengal,rural,fog,overspeeding,minor
+2026-09-15 16:00:00,Pune,Maharashtra,urban,clear,poor road,minor
+2026-09-16 00:00:00,Pune,Maharashtra,highway,clear,overspeeding,fatal
+2026-09-16 08:00:00,Hyderabad,Telangana,urban,clear,weather,major
+2026-09-16 16:00:00,Hyderabad,Telangana,highway,fog,overspeeding,major
+2026-09-17 00:00:00,Bangalore,Karnataka,urban,fog,distraction,minor
+2026-09-17 08:00:00,Hyderabad,Telangana,highway,rain,distraction,major
+2026-09-17 16:00:00,Hyderabad,Telangana,urban,rain,poor road,minor
+2026-09-18 00:00:00,Chandigarh,Punjab,urban,clear,poor road,minor
+2026-09-18 08:00:00,Delhi,Delhi,urban,fog,drunk driving,minor
+2026-09-18 16:00:00,Delhi,Delhi,highway,clear,overspeeding,minor
+2026-09-19 00:00:00,Chennai,Tamil Nadu,rural,clear,distraction,major
+2026-09-19 08:00:00,Pune,Maharashtra,rural,fog,overspeeding,minor
+2026-09-19 16:00:00,Mumbai,Maharashtra,urban,fog,overspeeding,major
+2026-09-20 00:00:00,Chandigarh,Punjab,highway,fog,overspeeding,major
+2026-09-20 08:00:00,Mumbai,Maharashtra,highway,fog,overspeeding,major
+2026-09-20 16:00:00,Pune,Maharashtra,urban,clear,weather,major
+2026-09-21 00:00:00,Kolkata,West Bengal,rural,clear,poor road,major
+2026-09-21 08:00:00,Pune,Maharashtra,highway,rain,poor road,minor
+2026-09-21 16:00:00,Kolkata,West Bengal,highway,fog,distraction,minor
+2026-09-22 00:00:00,Hyderabad,Telangana,urban,rain,overspeeding,fatal
+2026-09-22 08:00:00,Bangalore,Karnataka,highway,rain,overspeeding,minor
+2026-09-22 16:00:00,Chennai,Tamil Nadu,rural,rain,drunk driving,major
+2026-09-23 00:00:00,Chennai,Tamil Nadu,highway,clear,overspeeding,major
+2026-09-23 08:00:00,Delhi,Delhi,rural,rain,drunk driving,major
+2026-09-23 16:00:00,Bangalore,Karnataka,urban,fog,poor road,minor
+2026-09-24 00:00:00,Chandigarh,Punjab,urban,fog,drunk driving,minor
+2026-09-24 08:00:00,Chennai,Tamil Nadu,rural,rain,distraction,fatal
+2026-09-24 16:00:00,Kolkata,West Bengal,highway,clear,poor road,minor
+2026-09-25 00:00:00,Hyderabad,Telangana,rural,rain,overspeeding,fatal
+2026-09-25 08:00:00,Pune,Maharashtra,highway,clear,overspeeding,minor
+2026-09-25 16:00:00,Pune,Maharashtra,rural,clear,poor road,fatal
+2026-09-26 00:00:00,Mumbai,Maharashtra,urban,rain,weather,fatal
+2026-09-26 08:00:00,Chandigarh,Punjab,rural,fog,overspeeding,major
+2026-09-26 16:00:00,Chennai,Tamil Nadu,rural,fog,weather,major
+2026-09-27 00:00:00,Mumbai,Maharashtra,rural,fog,drunk driving,major
+2026-09-27 08:00:00,Pune,Maharashtra,rural,fog,poor road,major
+2026-09-27 16:00:00,Bangalore,Karnataka,urban,fog,weather,fatal
+2026-09-28 00:00:00,Mumbai,Maharashtra,rural,clear,weather,major
+2026-09-28 08:00:00,Hyderabad,Telangana,highway,fog,weather,major
+2026-09-28 16:00:00,Bangalore,Karnataka,rural,rain,distraction,minor
+2026-09-29 00:00:00,Delhi,Delhi,highway,fog,overspeeding,major
+2026-09-29 08:00:00,Mumbai,Maharashtra,urban,fog,poor road,major
+2026-09-29 16:00:00,Mumbai,Maharashtra,urban,fog,drunk driving,major
+2026-09-30 00:00:00,Kolkata,West Bengal,rural,clear,overspeeding,major
+2026-09-30 08:00:00,Chandigarh,Punjab,rural,fog,drunk driving,major
+2026-09-30 16:00:00,Delhi,Delhi,rural,clear,distraction,major
+2026-10-01 00:00:00,Kolkata,West Bengal,rural,rain,drunk driving,minor
+2026-10-01 08:00:00,Bangalore,Karnataka,rural,clear,drunk driving,fatal
+2026-10-01 16:00:00,Chennai,Tamil Nadu,urban,rain,drunk driving,minor
+2026-10-02 00:00:00,Chandigarh,Punjab,highway,rain,drunk driving,minor
+2026-10-02 08:00:00,Chennai,Tamil Nadu,highway,fog,weather,minor
+2026-10-02 16:00:00,Mumbai,Maharashtra,highway,fog,distraction,major
+2026-10-03 00:00:00,Chandigarh,Punjab,highway,rain,distraction,major
+2026-10-03 08:00:00,Chennai,Tamil Nadu,highway,clear,poor road,minor
+2026-10-03 16:00:00,Mumbai,Maharashtra,highway,fog,poor road,fatal
+2026-10-04 00:00:00,Chennai,Tamil Nadu,highway,fog,distraction,major
+2026-10-04 08:00:00,Mumbai,Maharashtra,highway,clear,poor road,minor
+2026-10-04 16:00:00,Mumbai,Maharashtra,rural,clear,distraction,major
+2026-10-05 00:00:00,Delhi,Delhi,rural,fog,distraction,major
+2026-10-05 08:00:00,Pune,Maharashtra,highway,fog,weather,minor
+2026-10-05 16:00:00,Delhi,Delhi,urban,fog,poor road,major
+2026-10-06 00:00:00,Bangalore,Karnataka,rural,rain,overspeeding,fatal
+2026-10-06 08:00:00,Chennai,Tamil Nadu,rural,rain,distraction,major
+2026-10-06 16:00:00,Chennai,Tamil Nadu,highway,clear,distraction,minor
+2026-10-07 00:00:00,Chennai,Tamil Nadu,highway,rain,drunk driving,minor
+2026-10-07 08:00:00,Chennai,Tamil Nadu,urban,clear,drunk driving,fatal
+2026-10-07 16:00:00,Pune,Maharashtra,rural,rain,distraction,major
+2026-10-08 00:00:00,Kolkata,West Bengal,urban,fog,distraction,minor
+2026-10-08 08:00:00,Bangalore,Karnataka,urban,fog,poor road,minor
+2026-10-08 16:00:00,Mumbai,Maharashtra,rural,clear,poor road,major
+2026-10-09 00:00:00,Kolkata,West Bengal,highway,fog,overspeeding,minor
+2026-10-09 08:00:00,Bangalore,Karnataka,rural,rain,poor road,minor
+2026-10-09 16:00:00,Kolkata,West Bengal,urban,clear,drunk driving,minor
+2026-10-10 00:00:00,Bangalore,Karnataka,urban,fog,overspeeding,minor
+2026-10-10 08:00:00,Delhi,Delhi,rural,fog,overspeeding,minor
+2026-10-10 16:00:00,Kolkata,West Bengal,rural,rain,distraction,minor
+2026-10-11 00:00:00,Chennai,Tamil Nadu,rural,clear,drunk driving,major
+2026-10-11 08:00:00,Bangalore,Karnataka,rural,clear,weather,minor
+2026-10-11 16:00:00,Mumbai,Maharashtra,urban,rain,drunk driving,major
+2026-10-12 00:00:00,Pune,Maharashtra,urban,clear,drunk driving,minor
+2026-10-12 08:00:00,Bangalore,Karnataka,rural,clear,weather,minor
+2026-10-12 16:00:00,Chandigarh,Punjab,rural,clear,overspeeding,minor
+2026-10-13 00:00:00,Mumbai,Maharashtra,rural,rain,weather,major
+2026-10-13 08:00:00,Kolkata,West Bengal,highway,clear,distraction,minor
+2026-10-13 16:00:00,Chennai,Tamil Nadu,urban,fog,weather,major
+2026-10-14 00:00:00,Chennai,Tamil Nadu,highway,fog,poor road,minor
+2026-10-14 08:00:00,Kolkata,West Bengal,highway,fog,distraction,fatal
+2026-10-14 16:00:00,Delhi,Delhi,highway,rain,overspeeding,minor
+2026-10-15 00:00:00,Chennai,Tamil Nadu,highway,fog,weather,major
+2026-10-15 08:00:00,Delhi,Delhi,urban,rain,poor road,minor
+2026-10-15 16:00:00,Bangalore,Karnataka,urban,rain,overspeeding,minor
+2026-10-16 00:00:00,Delhi,Delhi,rural,clear,distraction,major
+2026-10-16 08:00:00,Chandigarh,Punjab,highway,clear,distraction,fatal
+2026-10-16 16:00:00,Kolkata,West Bengal,urban,rain,distraction,minor
+2026-10-17 00:00:00,Chandigarh,Punjab,urban,rain,overspeeding,major
+2026-10-17 08:00:00,Hyderabad,Telangana,highway,rain,poor road,major
+2026-10-17 16:00:00,Chandigarh,Punjab,urban,rain,overspeeding,fatal
+2026-10-18 00:00:00,Chennai,Tamil Nadu,urban,fog,drunk driving,minor
+2026-10-18 08:00:00,Mumbai,Maharashtra,urban,rain,drunk driving,major
+2026-10-18 16:00:00,Chandigarh,Punjab,urban,fog,drunk driving,fatal
+2026-10-19 00:00:00,Hyderabad,Telangana,highway,clear,distraction,major
+2026-10-19 08:00:00,Chennai,Tamil Nadu,rural,rain,poor road,minor
+2026-10-19 16:00:00,Pune,Maharashtra,highway,fog,poor road,minor
+2026-10-20 00:00:00,Pune,Maharashtra,urban,fog,distraction,fatal
+2026-10-20 08:00:00,Kolkata,West Bengal,rural,clear,overspeeding,fatal
+2026-10-20 16:00:00,Chennai,Tamil Nadu,rural,clear,drunk driving,major
+2026-10-21 00:00:00,Kolkata,West Bengal,urban,fog,distraction,fatal
+2026-10-21 08:00:00,Pune,Maharashtra,urban,clear,overspeeding,minor
+2026-10-21 16:00:00,Mumbai,Maharashtra,highway,fog,distraction,fatal
+2026-10-22 00:00:00,Chennai,Tamil Nadu,highway,rain,overspeeding,fatal
+2026-10-22 08:00:00,Chandigarh,Punjab,rural,rain,poor road,minor
+2026-10-22 16:00:00,Chandigarh,Punjab,rural,clear,poor road,major
+2026-10-23 00:00:00,Chandigarh,Punjab,urban,fog,weather,minor
+2026-10-23 08:00:00,Hyderabad,Telangana,rural,clear,poor road,minor
+2026-10-23 16:00:00,Pune,Maharashtra,urban,fog,drunk driving,major
+2026-10-24 00:00:00,Chennai,Tamil Nadu,rural,fog,poor road,major
+2026-10-24 08:00:00,Bangalore,Karnataka,urban,rain,distraction,minor
+2026-10-24 16:00:00,Chandigarh,Punjab,urban,rain,overspeeding,minor
+2026-10-25 00:00:00,Pune,Maharashtra,highway,clear,drunk driving,minor
+2026-10-25 08:00:00,Pune,Maharashtra,rural,clear,poor road,fatal
+2026-10-25 16:00:00,Chennai,Tamil Nadu,urban,rain,overspeeding,minor
+2026-10-26 00:00:00,Chandigarh,Punjab,urban,fog,weather,major
+2026-10-26 08:00:00,Kolkata,West Bengal,urban,fog,poor road,fatal
+2026-10-26 16:00:00,Pune,Maharashtra,rural,fog,poor road,minor
+2026-10-27 00:00:00,Kolkata,West Bengal,highway,rain,poor road,minor
+2026-10-27 08:00:00,Chennai,Tamil Nadu,urban,fog,weather,minor
+2026-10-27 16:00:00,Kolkata,West Bengal,highway,fog,distraction,major
+2026-10-28 00:00:00,Bangalore,Karnataka,urban,rain,overspeeding,minor
+2026-10-28 08:00:00,Kolkata,West Bengal,rural,fog,drunk driving,minor
+2026-10-28 16:00:00,Chandigarh,Punjab,highway,clear,distraction,major
+2026-10-29 00:00:00,Pune,Maharashtra,highway,fog,overspeeding,minor
+2026-10-29 08:00:00,Chennai,Tamil Nadu,urban,rain,distraction,major
+2026-10-29 16:00:00,Pune,Maharashtra,urban,rain,weather,minor
+2026-10-30 00:00:00,Bangalore,Karnataka,rural,clear,overspeeding,minor
+2026-10-30 08:00:00,Pune,Maharashtra,urban,clear,overspeeding,minor
+2026-10-30 16:00:00,Chandigarh,Punjab,highway,rain,drunk driving,major
+2026-10-31 00:00:00,Chennai,Tamil Nadu,highway,fog,overspeeding,major
+2026-10-31 08:00:00,Pune,Maharashtra,highway,rain,drunk driving,fatal
+2026-10-31 16:00:00,Bangalore,Karnataka,urban,clear,distraction,major
+2026-11-01 00:00:00,Mumbai,Maharashtra,rural,clear,poor road,major
+2026-11-01 08:00:00,Hyderabad,Telangana,rural,clear,distraction,major
+2026-11-01 16:00:00,Pune,Maharashtra,urban,fog,distraction,major
+2026-11-02 00:00:00,Chennai,Tamil Nadu,highway,fog,poor road,fatal
+2026-11-02 08:00:00,Hyderabad,Telangana,highway,clear,overspeeding,major
+2026-11-02 16:00:00,Bangalore,Karnataka,rural,fog,overspeeding,minor
+2026-11-03 00:00:00,Bangalore,Karnataka,rural,rain,drunk driving,minor
+2026-11-03 08:00:00,Chennai,Tamil Nadu,rural,fog,distraction,major
+2026-11-03 16:00:00,Bangalore,Karnataka,rural,fog,distraction,major
+2026-11-04 00:00:00,Chandigarh,Punjab,highway,clear,poor road,major
+2026-11-04 08:00:00,Kolkata,West Bengal,highway,rain,distraction,major
+2026-11-04 16:00:00,Chennai,Tamil Nadu,rural,clear,weather,major
+2026-11-05 00:00:00,Pune,Maharashtra,rural,clear,overspeeding,minor
+2026-11-05 08:00:00,Kolkata,West Bengal,urban,clear,distraction,minor
+2026-11-05 16:00:00,Chandigarh,Punjab,highway,rain,drunk driving,major
+2026-11-06 00:00:00,Bangalore,Karnataka,urban,clear,drunk driving,minor
+2026-11-06 08:00:00,Bangalore,Karnataka,rural,clear,weather,fatal
+2026-11-06 16:00:00,Delhi,Delhi,highway,rain,drunk driving,minor
+2026-11-07 00:00:00,Mumbai,Maharashtra,rural,clear,poor road,major
+2026-11-07 08:00:00,Bangalore,Karnataka,highway,rain,weather,minor
+2026-11-07 16:00:00,Chandigarh,Punjab,rural,clear,poor road,major
+2026-11-08 00:00:00,Chandigarh,Punjab,urban,clear,drunk driving,major
+2026-11-08 08:00:00,Mumbai,Maharashtra,urban,fog,overspeeding,minor
+2026-11-08 16:00:00,Mumbai,Maharashtra,urban,fog,overspeeding,major
+2026-11-09 00:00:00,Delhi,Delhi,rural,clear,distraction,minor
+2026-11-09 08:00:00,Delhi,Delhi,urban,fog,distraction,minor
+2026-11-09 16:00:00,Pune,Maharashtra,urban,fog,poor road,minor
+2026-11-10 00:00:00,Chennai,Tamil Nadu,highway,fog,poor road,minor
+2026-11-10 08:00:00,Hyderabad,Telangana,highway,fog,overspeeding,fatal
+2026-11-10 16:00:00,Hyderabad,Telangana,rural,fog,distraction,major
+2026-11-11 00:00:00,Mumbai,Maharashtra,urban,fog,drunk driving,major
+2026-11-11 08:00:00,Bangalore,Karnataka,rural,rain,drunk driving,minor
+2026-11-11 16:00:00,Kolkata,West Bengal,rural,rain,weather,major
+2026-11-12 00:00:00,Chandigarh,Punjab,urban,fog,distraction,minor
+2026-11-12 08:00:00,Delhi,Delhi,urban,fog,distraction,minor
+2026-11-12 16:00:00,Bangalore,Karnataka,rural,clear,overspeeding,minor
+2026-11-13 00:00:00,Pune,Maharashtra,highway,rain,weather,minor
+2026-11-13 08:00:00,Pune,Maharashtra,rural,fog,distraction,major
+2026-11-13 16:00:00,Chennai,Tamil Nadu,highway,clear,weather,minor
+2026-11-14 00:00:00,Bangalore,Karnataka,rural,clear,drunk driving,minor
+2026-11-14 08:00:00,Pune,Maharashtra,rural,clear,distraction,minor
+2026-11-14 16:00:00,Kolkata,West Bengal,urban,rain,drunk driving,minor
+2026-11-15 00:00:00,Kolkata,West Bengal,highway,rain,distraction,major
+2026-11-15 08:00:00,Kolkata,West Bengal,highway,fog,poor road,minor
+2026-11-15 16:00:00,Bangalore,Karnataka,highway,clear,weather,minor
+2026-11-16 00:00:00,Bangalore,Karnataka,highway,fog,distraction,fatal
+2026-11-16 08:00:00,Chennai,Tamil Nadu,urban,clear,poor road,major
+2026-11-16 16:00:00,Kolkata,West Bengal,rural,clear,distraction,major
+2026-11-17 00:00:00,Kolkata,West Bengal,rural,clear,poor road,major
+2026-11-17 08:00:00,Chandigarh,Punjab,highway,clear,poor road,fatal
+2026-11-17 16:00:00,Chennai,Tamil Nadu,urban,rain,poor road,major
+2026-11-18 00:00:00,Pune,Maharashtra,urban,fog,poor road,minor
+2026-11-18 08:00:00,Mumbai,Maharashtra,urban,rain,weather,major
+2026-11-18 16:00:00,Chandigarh,Punjab,urban,clear,weather,minor
+2026-11-19 00:00:00,Mumbai,Maharashtra,rural,rain,distraction,major
+2026-11-19 08:00:00,Hyderabad,Telangana,highway,clear,poor road,minor
+2026-11-19 16:00:00,Pune,Maharashtra,highway,clear,drunk driving,minor
+2026-11-20 00:00:00,Chennai,Tamil Nadu,urban,rain,poor road,minor
+2026-11-20 08:00:00,Bangalore,Karnataka,urban,clear,distraction,minor
+2026-11-20 16:00:00,Chennai,Tamil Nadu,urban,rain,poor road,minor
+2026-11-21 00:00:00,Pune,Maharashtra,urban,clear,overspeeding,minor
+2026-11-21 08:00:00,Chandigarh,Punjab,highway,rain,overspeeding,minor
+2026-11-21 16:00:00,Chennai,Tamil Nadu,rural,clear,distraction,major
+2026-11-22 00:00:00,Bangalore,Karnataka,urban,rain,drunk driving,minor
+2026-11-22 08:00:00,Bangalore,Karnataka,rural,rain,poor road,major
+2026-11-22 16:00:00,Kolkata,West Bengal,urban,clear,poor road,minor
+2026-11-23 00:00:00,Mumbai,Maharashtra,rural,rain,distraction,major
+2026-11-23 08:00:00,Chandigarh,Punjab,urban,rain,weather,fatal
+2026-11-23 16:00:00,Delhi,Delhi,highway,clear,distraction,major
+2026-11-24 00:00:00,Pune,Maharashtra,highway,rain,distraction,minor
+2026-11-24 08:00:00,Chennai,Tamil Nadu,rural,rain,drunk driving,major
+2026-11-24 16:00:00,Mumbai,Maharashtra,rural,rain,overspeeding,major
+2026-11-25 00:00:00,Kolkata,West Bengal,rural,clear,drunk driving,minor
+2026-11-25 08:00:00,Pune,Maharashtra,urban,rain,distraction,fatal
+2026-11-25 16:00:00,Bangalore,Karnataka,highway,rain,poor road,minor
+2026-11-26 00:00:00,Pune,Maharashtra,highway,clear,overspeeding,fatal
+2026-11-26 08:00:00,Mumbai,Maharashtra,highway,fog,overspeeding,major
+2026-11-26 16:00:00,Chandigarh,Punjab,highway,clear,distraction,major
+2026-11-27 00:00:00,Hyderabad,Telangana,urban,fog,distraction,major
+2026-11-27 08:00:00,Hyderabad,Telangana,rural,clear,distraction,major
+2026-11-27 16:00:00,Kolkata,West Bengal,urban,rain,weather,minor
+2026-11-28 00:00:00,Delhi,Delhi,highway,clear,distraction,minor
+2026-11-28 08:00:00,Mumbai,Maharashtra,urban,fog,distraction,major
+2026-11-28 16:00:00,Mumbai,Maharashtra,highway,rain,poor road,major
+2026-11-29 00:00:00,Pune,Maharashtra,rural,fog,overspeeding,minor
+2026-11-29 08:00:00,Bangalore,Karnataka,highway,clear,drunk driving,minor
+2026-11-29 16:00:00,Hyderabad,Telangana,highway,fog,drunk driving,major
+2026-11-30 00:00:00,Chandigarh,Punjab,highway,fog,overspeeding,fatal
